@@ -1,0 +1,15 @@
+Age,Sex,ChestPain,RestBP,Chol,Fbs,RestECG,MaxHR,ExAng,Oldpeak,Slope,Ca,Thal,AHD
+63,1,typical,145,233,1,2,150,0,2.3,3,0,fixed,No
+67,1,asymptomatic,160,286,0,2,108,1,1.5,2,3,normal,Yes
+67,1,asymptomatic,120,229,0,2,129,1,2.6,2,2,reversable,Yes
+37,1,nonanginal,130,250,0,0,187,0,3.5,3,0,normal,No
+41,0,nontypical,130,204,0,2,172,0,1.4,1,0,normal,No
+56,1,nontypical,120,236,0,0,178,0,0.8,1,0,normal,No
+62,0,asymptomatic,140,268,0,2,160,0,3.6,3,2,normal,Yes
+57,0,asymptomatic,120,354,0,0,163,1,0.6,1,0,normal,No
+63,1,asymptomatic,130,254,0,2,147,0,1.4,2,1,reversable,Yes
+53,1,asymptomatic,140,203,1,2,155,1,3.1,3,0,reversable,Yes
+57,1,asymptomatic,140,192,0,0,148,0,0.4,2,0,fixed,No
+56,0,nontypical,140,294,0,2,153,0,1.3,2,0,normal,No
+56,1,nonanginal,130,256,1,2,142,1,0.6,2,1,fixed,Yes
+44,1,nontypical,120,263,0,0,173,0,0,1,0,reversable,No
